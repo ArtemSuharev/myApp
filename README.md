@@ -5,7 +5,7 @@
 
 [Калькулятор рецептов в AppStore](https://apps.apple.com/ru/app/calculation-of-recipes/id1570984210 "Калькулятор рецептов в AppStore")
 
-[Калькулятор рецептов в GooglePlay](https://apps.apple.com/ru/app/calculation-of-recipes/id1570984210 "Калькулятор рецептов в GooglePlay")
+[Калькулятор рецептов в GooglePlay](https://play.google.com/store/apps/details?id=com.artemsuharev.timbu.myapplicationnew "Калькулятор рецептов в GooglePlay")
 
 <h4 align="center">- 1 режим -</h4>
 <p>&nbsp&nbsp&nbsp&nbspУ Вас есть рецепт, по которому нужно 500 мл молока, а у Вас только 300 мл. Запишите количество любого продукта, и приложение пересчитает количество всех остальных продуктов. Новый рецепт готов.</p>
