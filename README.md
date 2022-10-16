@@ -10,6 +10,12 @@
 <h4 align="center">- 1 режим -</h4>
 <p>&nbsp&nbsp&nbsp&nbspУ Вас есть рецепт, по которому нужно 500 мл молока, а у Вас только 300 мл. Запишите количество любого продукта, и приложение пересчитает количество всех остальных продуктов. Новый рецепт готов.</p>
 
+<body>
+  <p>
+    <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/96/0e/59/960e59e0-79cb-db2f-3d96-8e77ad6e4270/fb03ab5b-cb61-413f-a072-a4e3e8ce6404_screen_2.png/1242x2688bb.png" alt="Калькулятор рецептов в AppStore" hspace="8" width="233" height="504"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/51/5a/0f515a03-91ed-8cc5-d300-fbb3fec76af1/2c8142f1-1e4e-4e0d-945a-75e17425e31d_screen_3.png/1242x2688bb.png" alt="Калькулятор рецептов в AppStore" hspace="8" width="233" height="504"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/0e/ca/3b0eca9e-8408-f25e-fb6e-777d6bac54d1/50c011aa-fa3a-45be-9567-4f6e0b89534c_screen_4.png/1242x2688bb.png" alt="Калькулятор рецептов в AppStore" hspace="8" width="233" height="504"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/ac/e1/e1ace16a-52c6-ba8a-5a89-89d2fb112ec6/ca41c2ff-ab1b-4e8f-9cf9-9bcf6a979712_screen_5.png/1242x2688bb.png" alt="Калькулятор рецептов в AppStore" hspace="8" width="233" height="504">
+  </p>
+ </body>
+
 <h4 align="center">- 2 режим -</h4>
 <p>&nbsp&nbsp&nbsp&nbspКакой-нибудь рецепт рассчитан, скажем, на 6 порций, а Вы хотите приготовить на 4 порции. Укажите количество порций в специальной графе и получите количество продуктов, которое Вам понадобиться. <br> &nbsp&nbsp&nbsp&nbspВы нашли рецепт, где используется форма для выпекания диаметром 21 см, а у Вас есть только форма размером 16 см. Заполните нужные поля в этом режиме и готовьте в той форме, которая у Вас есть. Кроме того, можно пересчитать не только круглую форму, но и прямоугольную.</p>
 
@@ -19,6 +25,14 @@
 
 <h4 align="center">- 4 режим -</h4>
 <p>&nbsp&nbsp&nbsp&nbspОдно нажатие на этот режим, и Вы получаете информацию о калорийности 100 граммов блюда, 1-ой порции или всего блюда целиком.</p>	
+
+<body>
+  <p>
+    <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/21/a0/21/21a0217e-7799-52c8-1459-e34679c42b68/785d0ee4-b17e-462b-a416-5b570ba2869e_screen_6.png/1242x2688bb.png" alt="Калькулятор рецептов в AppStore" hspace="8" width="233" height="504"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/44/14/a2441440-813e-2874-54ae-87bc282482bc/ddc5c456-af11-4874-8605-4911956033e1_screen_7.png/1242x2688bb.png" alt="Калькулятор рецептов в AppStore" hspace="8" width="233" height="504"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/b9/32/64/b93264c1-b18f-419a-f44d-8fceaac6b61a/53e0fe02-33bc-4663-bd50-55a9564c12be_screen_8.png/1242x2688bb.png" alt="Калькулятор рецептов в AppStore" hspace="8" width="233" height="504">
+  </p>
+ </body>
+
+
 
 <h4 align="center">- Списки покупок -</h4>
 <p>&nbsp&nbsp&nbsp&nbspСоздавайте списки покупок на основе рецептов, чтобы не забыть купить нужные продукты.</p>
