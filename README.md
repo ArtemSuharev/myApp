@@ -20,15 +20,8 @@
 <h4 align="center">- 4 режим -</h4>
 <p>&nbsp&nbsp&nbsp&nbspОдно нажатие на этот режим, и Вы получаете информацию о калорийности 100 граммов блюда, 1-ой порции или всего блюда целиком.</p>	
 
-![1242x2688bb](https://user-images.githubusercontent.com/114438648/196019889-864154c0-fa18-41e8-be4d-978c87f37f9b.png)
-![1242x2688bb (1)](https://user-images.githubusercontent.com/114438648/196019892-a6eb39a4-65de-4a6a-a6c3-df08e6fb39bc.png)
-![1242x2688bb (2)](https://user-images.githubusercontent.com/114438648/196019893-888cd289-f25a-4d09-9e0d-4a003eb45814.png)
-
 <h4 align="center">- Списки покупок -</h4>
 <p>&nbsp&nbsp&nbsp&nbspСоздавайте списки покупок на основе рецептов, чтобы не забыть купить нужные продукты.</p>
-	
-![1242x2688bb (3)](https://user-images.githubusercontent.com/114438648/196019971-2499da87-4446-47c9-818b-21523d935e99.png)
-![1242x2688bb (4)](https://user-images.githubusercontent.com/114438648/196019972-cfacb4b5-8870-4f5e-989d-bc09129e1941.png)
 	
 <h4 align="center">- Как это работает? -</h4>
 <p>&nbsp&nbsp&nbsp&nbsp Приложения написаны на языке Java для Android-версии и на языке Swift для IOS-версии. Для разработки использовались AndroidStudio и XCode, соответственно.</p>
